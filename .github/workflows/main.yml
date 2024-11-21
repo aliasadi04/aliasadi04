@@ -11,8 +11,3 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: gleich/profile_stack@master
-        with:
-          path: stack.yml
-          badges: false
-          technology_emoji: 👨🏻‍💻
-          project_emoji: ✨

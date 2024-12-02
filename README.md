@@ -12,10 +12,21 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-<a href="https://github.com/aliasadi04?tab=repositories">
-  
-### :gear:My projects
-</a>
+
+### :gear:My Top projects
+* <a href="https://github.com/aliasadi04/dinsb">
+   Din Soundboks
+  </a>- Business website developed with Typescript and Firebase
+* <a href="https://github.com/Kasper-Bankler/GMTA">
+   GMTA 
+  </a>- Game made in Godot
+* <a href="https://github.com/Kasper-Bankler/StockWebsite">
+   GMTA 
+  </a>- Stock Trading website made with Django
+
+* <a href="https://github.com/aliasadi04/Luftig">
+   Luftig
+  </a>- App made in React Native
 <!-- +
 ### :fire: My Stats :
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliasadi04&theme=react&hide_border=true)

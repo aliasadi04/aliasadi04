@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    GMTA 
   </a>- Game made in Godot
 * <a href="https://github.com/Kasper-Bankler/StockWebsite">
-   GMTA 
+   Stockify
   </a>- Stock Trading website made with Django
 
 * <a href="https://github.com/aliasadi04/Luftig">
